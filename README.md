@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamid Abbas
-- 👀 I’m interested in game design, game programming and game development
-- 🌱 I’m currently learning unity3d and c# programming for game development
-- 💞️ I’m looking to collaborate on any project to get knowledge
+- 👀 I’m interested in game design, game programming, game development, python programming, AI, Django, and much more
+- 🌱 I’m currently learning game designing and development.
+- 💞️ I have knowledege of python, I’m looking to collaborate on any project to get knowledge
 - 📫 To reach me you can either mail me to hamidabbas553@gmail.com or can call me +91 7766842117
 
 <!---
